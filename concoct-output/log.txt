@@ -1,0 +1,20 @@
+2013-12-09 13:38:41,286:INFO:root:Results created at /home/chrisq/CONCOCT_PUSH2/CONCOCT_R5/CONCOCT-test-data/concoct-output
+2013-12-09 13:39:23,519:INFO:root:Successfully loaded composition data.
+2013-12-09 13:39:23,614:INFO:root:Successfully loaded coverage data.
+2013-12-09 13:39:24,156:INFO:root:PCA transformed data.
+2013-12-09 13:39:24,759:INFO:root:Clustering into 2 clusters converged.
+2013-12-09 13:39:24,905:INFO:root:Clustering into 3 clusters converged.
+2013-12-09 13:39:25,609:INFO:root:Clustering into 4 clusters converged.
+2013-12-09 13:39:25,911:INFO:root:Clustering into 5 clusters converged.
+2013-12-09 13:39:25,948:INFO:root:Clustering into 9 clusters converged.
+2013-12-09 13:39:26,007:INFO:root:Clustering into 8 clusters converged.
+2013-12-09 13:39:26,020:INFO:root:Clustering into 6 clusters converged.
+2013-12-09 13:39:26,072:INFO:root:Clustering into 7 clusters converged.
+2013-12-09 13:39:26,928:INFO:root:Clustering into 10 clusters converged.
+2013-12-09 13:39:27,471:INFO:root:Clustering into 11 clusters converged.
+2013-12-09 13:39:28,447:INFO:root:Clustering into 14 clusters converged.
+2013-12-09 13:39:28,899:INFO:root:Clustering into 12 clusters converged.
+2013-12-09 13:39:29,057:INFO:root:Clustering into 13 clusters converged.
+2013-12-09 13:39:29,057:INFO:root:Clustering into 15 clusters converged.
+2013-12-09 13:39:29,679:INFO:root:Clustering into 16 clusters converged.
+2013-12-09 13:39:31,105:INFO:root:CONCOCT Finished
