@@ -1,7 +1,5 @@
-Taxa,D0,D1,D2,D3,D4,D5,D6,D7,D8
-Alistipes_finegoldii_DSM_17242,1,160,0,0,0,1,0,2,0
-Alistipes_shahii_WAL_8301,0,0,0,1,184,0,0,17,0
-Bacteroides_fragilis_YCH46,0,0,0,0,0,0,0,0,2
-Eubacterium_rectale_M104/1,0,0,9,0,0,0,0,0,0
-Faecalibacterium_prausnitzii_SL3/3,0,0,0,0,0,0,64,0,0
-Odoribacter_splanchnicus_DSM_20712,0,0,0,1,0,0,0,1,0
+Taxa,D0,D1,D2,D3
+Alistipes_finegoldii_DSM_17242,70,0,7,0
+Bacteroides_fragilis_YCH46,0,0,0,2
+Faecalibacterium_prausnitzii_SL3/3,0,8,0,0
+Odoribacter_splanchnicus_DSM_20712,0,0,0,1
